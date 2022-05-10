@@ -17,3 +17,8 @@ Este é um repositorio que possue jogos desenvolvidos na intenção de estudar e
 ## Como rodar o projeto:
 * 1 - Acesse a pasta do jogo;
 * 2 - Abra o arquivo index.html.
+
+## Imagens:
+<img src="uploads/hast-game.png" height="300" alt="Screenshot"/>
+<img src="uploads/memory-game.png" height="300" alt="Screenshot"/>
+<img src="uploads/space-shooter-game.png" height="300" alt="Screenshot"/>
