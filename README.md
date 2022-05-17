@@ -19,6 +19,8 @@ Este é um repositorio que possue jogos desenvolvidos na intenção de estudar e
 * 2 - Abra o arquivo index.html.
 
 ## Imagens:
+<img align='right' src='https://user-images.githubusercontent.com/97769637/168708618-ce1785a9-3253-4d03-950f-66597dd1c62b.gif' width='200'>
+
 <img src="src/uploads/animação-jogoVelha.gif" height="300" />      
 
 
