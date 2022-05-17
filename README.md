@@ -19,7 +19,7 @@ Este é um repositorio que possue jogos desenvolvidos na intenção de estudar e
 * 2 - Abra o arquivo index.html.
 
 ## Imagens:
-<img src="./uploads/animação-jogoVelha.gif" height="300" />      
+<img src="src/uploads/animação-jogoVelha.gif" height="300" />      
 
 
 <img src="./uploads/memory-game.PNG" height="300" alt="Screenshot"/>
