@@ -19,7 +19,7 @@ Este é um repositorio que possue jogos desenvolvidos na intenção de estudar e
 * 2 - Abra o arquivo index.html.
 
 ## Imagens:
-<img width="460" height="300" src="(https://user-images.githubusercontent.com/97769637/168708618-ce1785a9-3253-4d03-950f-66597dd1c62b.gif)"/>      
+<img width="460" height="300" src="/user-images.githubusercontent.com/97769637/168708618-ce1785a9-3253-4d03-950f-66597dd1c62b.gif)"/>      
 
 
 <img src="./uploads/memory-game.PNG" height="300" alt="Screenshot"/>    <img src="./uploads/space-shooter-game.PNG" height="300" alt="Screenshot"/>
