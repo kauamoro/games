@@ -19,4 +19,4 @@ Este é um repositorio que possue jogos desenvolvidos na intenção de estudar e
 * 2 - Abra o arquivo index.html.
 
 ## Imagens:
-<img src="./uploads/hast-game.PNG" height="300" alt="Screenshot"/><img src="./uploads/memory-game.PNG" height="300" alt="Screenshot"/><img src="./uploads/space-shooter-game.PNG" height="300" alt="Screenshot"/>
+<img src="./uploads/hast-game.PNG" height="300" alt="Screenshot"/>      <img src="./uploads/memory-game.PNG" height="300" alt="Screenshot"/><img src="./uploads/space-shooter-game.PNG" height="300" alt="Screenshot"/>
